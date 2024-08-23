@@ -47,7 +47,7 @@ This project is a Node.js and TypeScript-based API for getting specific weather 
     PORT=8089
     WEATHER_API_URL=https://api.openweathermap.org/data/2.5/weather
     WEATHER_API_KEY=<apikey>
-    REDIS_URL=redis://:<password>@redis-14058.c341.af-south-1-1.ec2.redns.redis-cloud.com:14058
+    REDIS_URL=redis://:<password>@<host>:<port>
 
     ```
 
